@@ -47,8 +47,6 @@
 
 ## 📈 Dashboard Preview
 
-## 📈 Dashboard Preview
-
 🔗 **Power BI Dashboard (Live Link)**  
 [📊 Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2ZmYmUxMjYtYWUxZS00NTBiLTgyYTctOTQ1OGYyNTNjNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
